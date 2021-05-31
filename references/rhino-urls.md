@@ -28,3 +28,7 @@ Rhinoceros + Grasshopperのチュートリアルサイト。建築系のトレ�
 ### [Rhinoceros公式チュートリアル\(日本語\)](https://www.rhino3d.com/jp/tutorials)
 
 日本語版Rhinoceros公式チュートリアル。Rhinocerosの基本的な使い方や応用方法、Grasshopper入門などの無料チュートリアルに加え、定期的に開催される有料セミナーや遠隔トレーニングプログラムの案内もチェックする事ができる
+
+### [Rhino公式フォーラム](https://discourse.mcneel.com/)
+
+Rhinoの開発元であるMcNeel社が運営するオンラインフォーラム。Rhinoに関する情報掲示板としては最も大きいもので、活発に情報交換やトラブルシューティングが行われている。
