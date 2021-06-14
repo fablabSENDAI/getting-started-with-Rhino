@@ -15,6 +15,13 @@ nav_order: 3
 
 * ビット径 1/4inch = 6.35mm
 
+* 最低限残してほしいパーツの太さ
+  * 白樺合板(18mm厚) 10mm
+  * 杉板(36mm厚) 30mm
+
+  <img src="../images/minimum_thickness.png" alt="hi" class="inline"/>
+
+
 * Make2Dしたら線がバラバラになるので、Joinしておく。
 
 * 座面については、繊維方向がX軸方向に(接着痕が横縞になるように)材がセットされる。
