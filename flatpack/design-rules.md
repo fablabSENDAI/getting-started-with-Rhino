@@ -36,7 +36,7 @@ nav_order: 3
 
 * in-cut、out-cut、materialで**レイヤー分け**　→ **DXFでExport**
 
-* 基本的に半角英数字で名前を付ける("shopbot+学籍番号.dxf")
+* 基本的に半角英数字で名前を付ける("shopbot+学籍番号+氏名.dxf"、例：shopbot12345678pecker.dxf)
 
 * 提出フォルダにデータをアップする。
 
