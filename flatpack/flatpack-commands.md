@@ -42,8 +42,14 @@ CNCルーターでの家具製作に用いるコマンド集
 * #### [Align](http://docs.mcneel.com/rhino/6/help/ja-jp/commands/align.htm)
 複数のオブジェクトを整列させる
 
+* #### [BooleanUnion](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/booleanunion.htm)
+3Dオブジェクトの足し算
+
 * #### [BooleanDifference](http://docs.mcneel.com/rhino/6/help/ja-jp/commands/booleandifference.htm)
-オブジェクトの引き算
+3Dオブジェクトの引き算
+
+* #### [CurveBoolean](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/curveboolean.htm)
+カーブ同士の足し算or引き算
 
 * #### [FilletEdge](http://docs.mcneel.com/rhino/5/help/ja-jp/commands/filletedge.htm)
 3Dオブジェクトの角を丸くする
@@ -62,6 +68,9 @@ CNCルーターでの家具製作に用いるコマンド集
 
 * #### [Trim](http://docs.mcneel.com/rhino/6/help/ja-jp/commands/trim.htm)
 カーブを別のカーブでカットする
+
+* #### [SetPt](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/setpt.htm
+カーブのアンカーポイントを整列させる
 
 
 ### サンプル
