@@ -15,6 +15,12 @@ CNCルーターでの家具製作に用いるコマンド集
 * #### [Polyline](http://docs.mcneel.com/rhino/6/help/ja-jp/commands/polyline.htm)
 ポリラインを描く
 
+* #### [Curve](https://docs.mcneel.com/rhino/6/help/ja-jp/commands/curve.htm)
+曲線を描く
+
+* #### [PointsOn / PointsOff](https://docs.mcneel.com/rhino/6/help/ja-jp/commands/pointson.htm)
+ポリラインを描く
+
 * #### [Circle](http://docs.mcneel.com/rhino/6/help/ja-jp/commands/circle.htm)
 円を描く
 
@@ -69,7 +75,7 @@ CNCルーターでの家具製作に用いるコマンド集
 * #### [Trim](http://docs.mcneel.com/rhino/6/help/ja-jp/commands/trim.htm)
 カーブを別のカーブでカットする
 
-* #### [SetPt](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/setpt.htm
+* #### [SetPt](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/setpt.htm)
 カーブのアンカーポイントを整列させる
 
 
