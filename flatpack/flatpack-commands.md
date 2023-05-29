@@ -19,7 +19,7 @@ CNCルーターでの家具製作に用いるコマンド集
 曲線を描く
 
 * #### [PointsOn / PointsOff](https://docs.mcneel.com/rhino/6/help/ja-jp/commands/pointson.htm)
-ポリラインを描く
+オブジェクトの編集点・表示切り替え
 
 * #### [Circle](http://docs.mcneel.com/rhino/6/help/ja-jp/commands/circle.htm)
 円を描く
