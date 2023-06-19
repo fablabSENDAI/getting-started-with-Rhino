@@ -34,9 +34,12 @@ nav_order: 3
 
 * **オフセット** : 片側0.3mm、両側0.6mm (基本的には穴の方にオフセットかける)
 
-* in-cut、out-cut、materialで**レイヤー分け**　→ **DXFでExport**
+* in-cut、out-cut、material、originalで**レイヤー分け**　→ **DXFでExport**
 
 * 基本的に半角英数字で名前を付ける("shopbot+学籍番号+氏名.dxf"、例：shopbot12345678pecker.dxf)
+  * 合板の場合は、shopbot12345678pecker_ply.dxf
+  * 杉板の場合は、shopbot12345678pecker_sugi.dxf
+
 
 * 提出フォルダにデータをアップする。
 
