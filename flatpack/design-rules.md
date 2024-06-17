@@ -36,7 +36,7 @@ nav_order: 3
 
 * in-cut、out-cut、materialで**レイヤー分け**　→ **DXFでExport**
 
-* 基本的に半角英数字で名前を付ける("shopbot+学籍番号+氏名.dxf"、例：shopbot12345678pecker.dxf)
+* 基本的に半角英数字で名前を付ける("学籍番号_氏名_素材.dxf"、例：12345678_pecker_plywood.dxf)
   * 合板の場合は、12345678_pecker_plywood.dxf
   * 杉板の場合は、12345678_pecker_cedar.dxf
 
