@@ -7,13 +7,13 @@ nav_order: 2
 
 # 参考：ウェブページ
 
-### [Rhino 5 Official Document](https://docs.mcneel.com/rhino/5/help/en-us/index.htm)
+### [Rhino 8 Official Document](https://docs.mcneel.com/rhino/8/help/en-us/commandlist/newinrhino8.htm)
 
 Rhinocerosのオフィシャルドキュメントページ、画面左側の目次から各項目へアクセスできる
 
 Commands > By functionと選択して閲覧できるコマンド表には細やかな解説のほか実際にコマンドの効果を動画で見ることもできる
 
-### [Rhino 5 コマンドリスト\(日本語版\)](http://docs.mcneel.com/rhino/5/help/ja-jp/index.htm#commandlist/command_list.htm)
+### [Rhino 8 コマンドリスト\(日本語版\)]https://docs.mcneel.com/rhino/8/help/ja-jp/commandlist/command_list.htm)
 
 日本語に訳されたコマンドリスト。しかし、更新はやはりオフィシャルのほうが早いので可能ならば英語版の方をおすすめする
 
@@ -23,7 +23,7 @@ Rhinoceros用プラグインのポータルサイト
 
 ### [RhinoGH.com](http://rhino-gh.com)
 
-Rhinoceros + Grasshopperのチュートリアルサイト。建築系のトレーニングやサンプルが主だが、他分野にも応用できる基礎を学べるサイト
+Rhinoceros + Grasshopperのチュートリアルサイト。建築系のトレーニングやサンプルが主だが、他分野にも応用できる基礎を学べるサイト。特に良く使うコマンドをまとめた"Rhinoceros 100"は使いやすい。
 
 ### [Rhinoceros公式チュートリアル\(日本語\)](https://www.rhino3d.com/jp/tutorials)
 
