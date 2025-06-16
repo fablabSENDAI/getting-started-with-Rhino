@@ -35,7 +35,10 @@ nav_order: 3
 
 * **オフセット** : 片側0.4mm、両側0.8mm (基本的には穴の方にオフセットかける)
 
-* in-cut (赤：R255 G0 B0)、out-cut (青：R0 G0 B255)、material (黒：R0 G0 B0)で**レイヤー分け**　→ **DXFでExport**
+* カットによって**レイヤー分け**　→ **DXFでExport**
+  * in-cut (赤：R255 G0 B0)
+  * out-cut (青：R0 G0 B255)
+  * material (黒：R0 G0 B0)
 
 * 基本的に半角英数字で名前を付ける("学籍番号_氏名_素材.dxf"、例：12345678_pecker_plywood.dxf)
   * 合板の場合は、12345678_pecker_plywood.dxf
